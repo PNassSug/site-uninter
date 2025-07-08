@@ -62,20 +62,12 @@
             background-color: #4CAF50;
             color: white;
             border: none;
-            padding: 10px 15px;
-            text-align: center;
-            text-decoration: none;
-            display: inline-block;
-            font-size: 16px;
-            margin: 10px 0;
-            cursor: pointer;
-            border-radius: 5px;
+
         }
         
         #mensagem {
             margin: 10px 0;
             padding: 10px;
-            background-color: #f8f8f8;
-            border-left: 4px solid #4CAF50;
+            background-color: white;
         }
     </style>
